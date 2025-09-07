@@ -10,3 +10,6 @@
 [submodule "task4-Vdkk07"]
 	path = task4-Vdkk07
 	url = https://github.com/School-of-Solana/task4-Vdkk07
+[submodule "program-Vdkk07"]
+	path = program-Vdkk07
+	url = https://github.com/School-of-Solana/program-Vdkk07
