@@ -13,3 +13,6 @@
 [submodule "program-Vdkk07"]
 	path = program-Vdkk07
 	url = https://github.com/School-of-Solana/program-Vdkk07
+[submodule "task5-Vdkk07"]
+	path = task5-Vdkk07
+	url = https://github.com/School-of-Solana/task5-Vdkk07
