@@ -1,0 +1,3 @@
+[submodule "solvarn"]
+	path = solvarn
+	url = https://github.com/Vdkk07/solvarn
